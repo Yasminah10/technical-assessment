@@ -1,4 +1,4 @@
-# Senior Technical Assessment - Complete Solution
+# Technical Assessment 
 
 This repository contains complete solutions for both assessment tasks: Arabic-to-English Translation and Invoice OCR System.
 
